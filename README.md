@@ -11,7 +11,6 @@ Este projeto consiste em um código para realizar a análise exploratória e cri
 - [Requisitos](#requisitos)
 - [Dependências](#dependências)
 - [Como Usar](#como-usar)
-- [Visualizações](#visualizações)
 - [Contribuições](#contribuições)
 - [Autores](#autores)
 - [Licença](#licença)
