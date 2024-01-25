@@ -33,12 +33,11 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 9. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
 10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?
 
-- +2 extras:
-
-11. [Inserir Pergunta Extra 1]
+<!-- 11. [Inserir Pergunta Extra 1]
 
 12. [Inserir Pergunta Extra 2]
 
+13. [Inserir Pergunta Extra 3] -->
 
 ## Estrutura do Projeto
 
@@ -83,18 +82,6 @@ Uma forma de utiliza-lo é substituir as informações que quer visualizar, nas 
 Identifique as colunas do seu arquivo e substitua os nomes das colunas a serem identificadas no código, assim, poderá reutilizar todo o projeto!
 
 
-## Visualizações
-
-### Horas Trabalhadas
-
-![Grafico](./images/grafico_horas.png)
-
-
-### Produtividade Diária
-
-![Grafico](./images/grafico_prod.png)
-
-
 ## Contribuições
 
 Sinta-se à vontade para contribuir para este projeto! Caso queira propor melhorias, correções ou novas funcionalidades, siga as diretrizes abaixo:
@@ -132,11 +119,11 @@ Caso encontre problemas ou tenha dúvidas, sinta-se à vontade para abrir uma is
 - [Linkedin](https://www.linkedin.com/in/ederson-macedo-65a762262/)
 - [GitHub](https://github.com/edersonmcm)
 
-<!-- ### **Handdson**
-- [falta E-mail](mailto:)
-- [falta Linkedin](https://www.linkedin.com/in//)
-- [falta GitHub](https://github.com/)
-- [falta Instagram](https://instagram.com/) -->
+### **Handdson**
+- [E-mail](mailto:handdsonwas@hotmail.com)
+- [Linkedin](https://www.linkedin.com/in/handdson-wanglas-0a5833270/)
+- [GitHub](https://github.com/Handdson)
+- [Instagram](https://www.instagram.com/han.d_ws/)
 
 ### **Samuel Gomes**
 - [E-mail](mailto:samuel10.gomes7@gmail.com)
