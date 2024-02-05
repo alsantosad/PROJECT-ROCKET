@@ -13,6 +13,7 @@ Este projeto consiste em um código para realizar a análise exploratória e cri
 - [Como Usar](#como-usar)
 - [Contribuições](#contribuições)
 - [Autores](#autores)
+- [Trello](#trello)
 - [Licença](#licença)
 
 
@@ -44,7 +45,7 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
   - [relatorio_diario.xlsx](./data/relatorio_diario.xlsx)
 - [**notebooks/**](./notebooks)
   - [relatorio_diario.ipynb](./notebooks/relatorio_diario.ipynb)
-- [**LICENSE.md**](./LICENSE.md)
+- [**Projeto - Módulo 4.pptx**](https://github.com/alsantosad/PROJECT-ROCKET/blob/610d93e5cfb6c482a2ecc0add4c8518bc225cc23/Projeto%20-%20Módulo%204.pptx)
 - [**README.md**](./README.md)
 - [**requirements.txt**](./requirements.txt)
 
@@ -129,6 +130,10 @@ Caso encontre problemas ou tenha dúvidas, sinta-se à vontade para abrir uma is
 - [Linkedin](https://www.linkedin.com/in/samuelgalvaogomes/)
 - [GitHub](https://github.com/samgomes0305)
 - [Instagram](https://instagram.com/samgalvaogomes)
+
+## **Trello**
+
+Acesse nosso Trello clicando [**AQUI**](https://trello.com/invite/b/MD6I9epS/ATTI55d804acbadf024c86094fb90e06af76580C7D21/projeto-terror-do-detran)
 
 ## Licença
 Este projeto está licenciado sob a Licença Apache - veja o arquivo LICENSE.md para detalhes.
